@@ -14,7 +14,7 @@ If you problem viewing animated gif, you can view at [here](http://recordit.co/u
 
 This application would format the ARM template by re-arranging the type part such that, when you collapse the resource section, type is visible
 
-![Notepad++ collapse post formating](![Notepad++ collapse without formating](https://github.com/sbrakl/AzureARMTemplateFormatter/raw/master/images/PreFormatTemplate.gif) 
+![Notepad++ collapse post formating](![Notepad++ collapse without formating](https://github.com/sbrakl/AzureARMTemplateFormatter/raw/master/images/PostFormatTemplate.gif) 
 
 If you problem viewing animated gif, you can view at [here](http://recordit.co/livBqzbCmw)
 
